@@ -5,7 +5,7 @@
 <p><strong>Systems Administrator | DevOps Engineer</p>
 </div>
 
-<div align="left>
+<div align="left" width="50">
 
 ```dart
 // tools_I_use organized
@@ -27,9 +27,9 @@ class About extends Me {
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on twitter: **[iNightjar.](https://twitter.com/iNightjar)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[Muhamed Medhat CV.](https://drive.google.com/file/d/1WiHS-RJDSrvsY_GZJlQH-Imco33E1Oh2/view?usp=sharing)**.<br>
 
-
+</div>
 <hr></hr>
-
+<div align="center" width="50">
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/iNightjar" width="700"/><br>
 </div>
 
