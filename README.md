@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhamed Medhat</h1>
-<h3 align="center">Systems Administrator | DevOps Engineer</h3>
+<h2 align="center">Hi.. I'm Muhamed Medhat</h2>
+<h4 align="center">Systems Administrator | DevOps Engineer</h4>
 
 * Currently learning: MERN Stack JavaScript | DevOps Tools
 * Can code with: C++ | java | js | python | bash 
