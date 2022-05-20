@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="left" width="50">
 
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/dev-working_rounded.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
