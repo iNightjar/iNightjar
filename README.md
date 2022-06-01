@@ -2,7 +2,7 @@
 
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>Systems Administrator | DevOps Engineer</p>
+<p><strong> Systems Administrator | DevOps Engineer 👩‍💻</p>
 </div>
 
 <div align="left" width="50">
@@ -10,10 +10,10 @@
 ```dart
 // tools_I_use organized
 class About extends Me { 
-  const myTools = {  
+  const mySkills = {  
     "ProgramingLanguages" : { "Java", "C++", "C", "Python", "Javascript" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "FrameWorks": {"NodeJS/ExpressJS" , "ReactJS","Django", "Flask" }
+    "FrameWorks": {"NodeJS/ExpressJS" , "ReactJS","Django", "Bootstrap" }
     "Database" : { "Firebase", "Sqlite", "MongoDB", "MySQL" },
     "Editors" : { "Vscode", "Sublime", "Neovim","VIM" },
     "Platforms" : { "Arch/Linux","Debian/Linux","Redhat/Linux", "Windows" },
@@ -31,7 +31,7 @@ class About extends Me {
 
 <!-- Skills ( Languages & Tools ) -->
 
-### `Tech Skills | Tools:`
+### `Technology Tools:`
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
 [![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
