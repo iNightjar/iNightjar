@@ -17,7 +17,7 @@ class About extends Me {
     "Database" : { "Firebase", "Sqlite", "MongoDB", "MySQL" },
     "Editors" : { "Vscode", "Sublime", "Neovim","VIM" },
     "Platforms" : { "Arch/Linux","Debian/Linux","Redhat/Linux", "Windows" },
-    "OtherTools" : { "Git","Jenkis", "Figma","Gimp" }
+    "OtherTools" : { "Git", "Figma","Gimp" }
   };
 }
 ```
