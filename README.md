@@ -12,12 +12,14 @@
 class About extends Me { 
   const mySkills = {  
     "ProgramingLanguages" : { "Java", "C++", "C", "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "FrameWorks": {"NodeJS/ExpressJS" , "ReactJS","Django", "Bootstrap" }
-    "Database" : { "Firebase", "Sqlite", "MongoDB", "MySQL" },
-    "Editors" : { "Vscode", "Sublime", "Neovim","VIM" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Batch", "Json", "Markdown" },
+    "Agile/Issue Trackers" : {"Slack", "Jira", "Trello", "GitHub Issues"},
+    "containerization/Orchestration" : {"Docker", "Kuberenetes"},
+    "FrameWorks": {"NodeJS/ExpressJS" , "ReactJS","Django", "Bootstrap" },
+    "Database" : { "Firebase", "Sqlite", "MongoDB", "MySqlServer", "MariaDB" },
+    "Editors" : { "Vscode", "Sublime", "Neovim","VIM", "Nano", "Tmux" },
     "Platforms" : { "Arch/Linux","Debian/Linux","Redhat/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Gimp" }
+    "OtherTools" : { "Terminal/Shell", "Geddit", "Kate", "Figma", "Gimp" }
   };
 }
 ```
