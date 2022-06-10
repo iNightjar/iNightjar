@@ -66,6 +66,6 @@ class About extends Me {
 </div>
 <hr></hr>
 <div align="center" width="50">
-<img src="https://github.com/iNightjar/iNightjar/blob/master/images/keepOnCoding.gif?raw=true" href="https://github.com/iNightjar" width="600" hight="100"/><br>
+<img src="https://github.com/iNightjar/iNightjar/blob/master/images/keepOnCoding.gif?raw=true" href="https://github.com/iNightjar" width="600"/><br>
 </div>
 
