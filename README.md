@@ -2,7 +2,7 @@
 
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong> Systems Administrator | DevOps Engineer 👩‍💻</p>
+<p><strong>System Administrator | DevOps Engineer</p>
 </div>
 
 <div align="left" width="50">
