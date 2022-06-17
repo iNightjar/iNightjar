@@ -14,7 +14,7 @@ class About extends Me {
     "ProgramingLanguages" : { "Java", "C++", "C", "Python", "Javascript" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Batch", "Json", "Markdown" },
     "Agile/Issue Trackers" : {"Slack", "Jira", "Trello", "GitHub Issues"},
-    "containerization/Orchestration" : {"Docker", "Kuberenetes"},
+    "Containerization/Orchestration" : {"Docker", "Kuberenetes"},
     "FrameWorks": {"NodeJS/ExpressJS" , "ReactJS","Django", "Bootstrap" },
     "Database" : { "Firebase", "Sqlite", "MongoDB", "MySqlServer", "MariaDB" },
     "Editors" : { "Vscode", "Sublime", "Neovim","VIM", "Nano", "Tmux" },
@@ -28,7 +28,7 @@ class About extends Me {
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Last Deployed Projects **[Food Order Cheque](https://github.com/iNightjar/Order-Cheque)** | **[User Management System](https://github.com/iNightjar/User-Management-System)**. <br>
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Email: **mohamedmedhateltlawy@gmail.com**. <br>
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on twitter: **[ iNightjar](https://twitter.com/iNightjar)**.<br>
-- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1WiHS-RJDSrvsY_GZJlQH-Imco33E1Oh2/view?usp=sharing)**.<br><br>
+- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view?usp=sharing)**.<br><br>
 
 
 <!-- Skills ( Languages & Tools ) -->
