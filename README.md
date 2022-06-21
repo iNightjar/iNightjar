@@ -24,9 +24,10 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MERN Stack JavaScript | DevOps Tools**. <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/linux_rounded.gif?raw=true" /><br>
-<img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/mario.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MERN Stack JavaScript | DevOps Tools**. <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/linux_rounded.gif?raw=true" />
+<img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/mario.gif?raw=true" />
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank Management System](https://github.com/iNightjar/Bank-Management-System)** | **[User Management System](https://github.com/iNightjar/User-Management-System)**. <br>
+<img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" />
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Email: **mohamedmedhateltlawy@gmail.com**. <br>
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find Me On Twitter: **[ iNightjar](https://twitter.com/iNightjar)**.<br>
 - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view?usp=sharing)**.<br><br>
@@ -66,7 +67,7 @@ class About extends Me {
 [![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/)
 
 <!-- Skills ( Languages & Tools ) -->
-
+<!-- 
 </div>
 
 
@@ -74,5 +75,5 @@ class About extends Me {
 <div align="center" width="50">
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/iNightjar" /><br> 
 
-</div>
+</div> -->
 
