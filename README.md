@@ -2,7 +2,7 @@
 
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>I do linux stuff</p>
+<p><strong>I DO LINUX</p>
 </div>
 
 <div align="left" width="50">
