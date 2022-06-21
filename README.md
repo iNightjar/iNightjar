@@ -35,10 +35,8 @@ class About extends Me {
 
 - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view?usp=sharing)**.<br><br>
 
-
-
 <!-- Skills ( Languages & Tools ) -->
-
+<!-- 
 ### Technology Tools
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
@@ -67,16 +65,14 @@ class About extends Me {
 [![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=plastic&logo=markdown&color=informational)](https://www.markdownguide.org/)
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
 [![Containers](https://img.shields.io/badge/Containers-podman-05122A?style=plastic&logo=podman&color=informational)](https://podman.io/)
-[![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/)
+[![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/) -->
 
 <!-- Skills ( Languages & Tools ) -->
-<!-- 
+
 </div>
-
-
+<!-- 
 <hr></hr>
 <div align="center" width="50">
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/iNightjar" /><br> 
-
 </div> -->
 
