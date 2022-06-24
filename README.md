@@ -27,7 +27,7 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MERN Stack JavaScript | DevOps Tools**. <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/linux_rounded.gif?raw=true" /><br>
 <img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/mario.gif?raw=true" /><br>
 
-- <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank Management System](https://github.com/iNightjar/Bank-Management-System)** | **[User Management System](https://github.com/iNightjar/User-Management-System)**. <br>
+- <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank Management System](https://github.com/iNightjar/Bank-Management-System)** | **[Python SqlConnection](https://github.com/iNightjar/Python-SqlConnection)**. <br>
 <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" /><br>
 
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Email: **mohamedmedhateltlawy@gmail.com**. <br>
