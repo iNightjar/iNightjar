@@ -1,4 +1,4 @@
-Vodafone, at Vodafone Zahraa Building, Zahraa Al Maadi, Maadi as Sarayat Al Gharbeyah, Maadi, Cairo Governorate 4064102<div align="center" width="50">
+<div align="center" width="50">
 
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
