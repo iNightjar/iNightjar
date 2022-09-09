@@ -2,7 +2,7 @@
 
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>I DO LINUX <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/catCoding.gif" width="25" /></p>
+<p><strong>LINUX IS METH <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/catCoding.gif" width="25" /></p>
 </div>
 
 <div align="left" width="50">
@@ -24,16 +24,16 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MERN Stack JavaScript | DevOps Tools**. <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/linux_rounded.gif?raw=true" /><br>
+<!-- -  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **MERN Stack JavaScript | DevOps Tools**. --> <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/linux_rounded.gif?raw=true" /><br>
 <img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/mario.gif?raw=true" /><br>
 
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank System](https://github.com/iNightjar/Bank-System)** | **[Udacity CloudDevOps](https://github.com/iNightjar/Udacity-CloudDevOps)**. <br>
 <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" /><br>
 
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Email: **mohamedmedhateltlawy@gmail.com**. <br>
-- <img src="https://github.com/iNightjar/iNightjar/blob/master/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find Me On Twitter: **[ iNightjar](https://twitter.com/iNightjar)**.<br>
+<!-- - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find Me On Twitter: **[ iNightjar](https://twitter.com/iNightjar)**.<br> -->
 
-- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view?usp=sharing)**.<br>
+<!-- - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view?usp=sharing)**.<br> -->
 
 - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Youtube Channel:**[ Click Here](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**.<br><br>
 
