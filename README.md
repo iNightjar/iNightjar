@@ -1,8 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/iNightjar/iNightjar/blob/master/images/giphy.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>LINUX IS METH <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif" width="25" /></p>
+<p><strong>LINUX IS METH <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/people.gif" width="25" /></p>
 </div>
 
 <div align="left" width="50">
