@@ -30,14 +30,14 @@ class About extends Me {
 <!-- - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank System](https://github.com/iNightjar/Bank-System)** | **[Bash Scripts](https://github.com/iNightjar/Bash-Scripts)** -->
 <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" /><br>
 
-- <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **[My Email](mailto:mohamedmedhateltlawy@gmail.com)** 
+- <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **[Email](mailto:mohamedmedhateltlawy@gmail.com)** 
 <!-- <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/catCoding.gif?raw=true" /><br> -->
 
 <!-- - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find Me On Twitter: **[ iNightjar](https://twitter.com/iNightjar)**.<br> -->
 
 <!-- - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view?usp=sharing)**.<br> -->
 
-- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**[iNightjar](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**<br><br>
+- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/youtubeGif.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**<br><br>
 
 <!-- Skills ( Languages & Tools ) -->
 <!-- 
