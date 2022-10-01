@@ -37,7 +37,7 @@ class About extends Me {
 
 <!-- - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view?usp=sharing)**.<br> -->
 
-- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**<br><br>
+- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/youtubeGif.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**<br><br>
 
 <!-- Skills ( Languages & Tools ) -->
 <!-- 
