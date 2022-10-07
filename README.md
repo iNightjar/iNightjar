@@ -2,8 +2,8 @@
 
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<!-- src="https://github.com/iNightjar/iNightjar/blob/master/images/people.gif" width="25" -->
-<p><strong>I PLAY TO WIN<img alt="INIGHTJAR" /></p>
+<!-- <img alt="INIGHTJAR" src="https://github.com/iNightjar/iNightjar/blob/master/images/people.gif" width="25" /> -->
+<p><strong>I PLAY TO WIN</p>
 </div>
 
 <div align="left" width="50">
@@ -31,7 +31,7 @@ class About extends Me {
 <!-- - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank System](https://github.com/iNightjar/Bank-System)** | **[Bash Scripts](https://github.com/iNightjar/Bash-Scripts)** -->
 <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" /><br>
 
--  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**
+-  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[Muhamed Medhat](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**
 
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **[Email](mailto:mohamedmedhateltlawy@gmail.com)** 
 <!-- <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/catCoding.gif?raw=true" /><br> -->
@@ -43,7 +43,7 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/youtubeGif.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**<br><br>
 
 <!-- Skills ( Languages & Tools ) -->
-<!-- 
+
 ### Technology Tools
 [![Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://www.linux.org/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
@@ -72,7 +72,7 @@ class About extends Me {
 [![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=plastic&logo=markdown&color=informational)](https://www.markdownguide.org/)
 [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
 [![Containers](https://img.shields.io/badge/Containers-podman-05122A?style=plastic&logo=podman&color=informational)](https://podman.io/)
-[![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/) -->
+[![GNS3](https://img.shields.io/badge/Networking-GNS3-05122A?style=plastic&logo=gns&color=informational)](https://www.gns3.com/) 
 
 <!-- Skills ( Languages & Tools ) -->
 
