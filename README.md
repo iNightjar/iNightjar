@@ -2,7 +2,8 @@
 
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>LINUX IS METH <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/people.gif" width="25" /></p>
+<!-- src="https://github.com/iNightjar/iNightjar/blob/master/images/people.gif" width="25" -->
+<p><strong>I PLAY TO WIN<img alt="INIGHTJAR" /></p>
 </div>
 
 <div align="left" width="50">
@@ -24,11 +25,13 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**. <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/linux_rounded.gif?raw=true" /><br>
+ <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/linux_rounded.gif?raw=true" /><br>
 <img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/mario.gif?raw=true" /><br>
 
 <!-- - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank System](https://github.com/iNightjar/Bank-System)** | **[Bash Scripts](https://github.com/iNightjar/Bash-Scripts)** -->
 <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" /><br>
+
+-  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**
 
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **[Email](mailto:mohamedmedhateltlawy@gmail.com)** 
 <!-- <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/catCoding.gif?raw=true" /><br> -->
