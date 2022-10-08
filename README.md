@@ -53,7 +53,15 @@ class About extends Me {
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
 [![packetTracer](https://img.shields.io/badge/Cisco-packetTracer-05122A?style=plastic&logo=cisco&color=informational)](https://www.netacad.com/)
 
-<!-- [![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
+<!-- 
+[![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
+[![vm-ware](https://img.shields.io/badge/VM-vmware-05122A?style=plastic&logo=vmware&color=informational)](https://www.vmware.com/mena.html)
+[![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&color=informational)](https://www.virtualbox.org/)
+[![qemu](https://img.shields.io/badge/VM-qemu-05122A?style=plastic&logo=qemu&color=informational)](https://www.qemu.org/)
+[![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/tool-GitLab-05122A?style=plastic&logo=gitlab&&color=informational)](https://gitlab.com/)
+[![wireshark](https://img.shields.io/badge/Networking-wireshark-05122A?style=plastic&logo=wireshark&color=informational)](https://www.wireshark.org/)
 [![metasploitable](https://img.shields.io/badge/HackingTools-metasploitable-05122A?style=plastic&logo=metasploitable&color=informational)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 [![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&color=informational)](https://www.java.com/en/)
 [![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&color=informational)](https://www.cprogramming.com/)
