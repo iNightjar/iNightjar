@@ -25,9 +25,10 @@ class About extends Me {
 }
 ```
 
- <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/linux_rounded.gif?raw=true" /><br>
+ <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/code-coding.gif?raw=true" /><br>
 <img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/mario.gif?raw=true" /><br>
 
+<img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/programmers-go-internet.gif?raw=true" /><br>
 <!-- - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank System](https://github.com/iNightjar/Bank-System)** | **[Bash Scripts](https://github.com/iNightjar/Bash-Scripts)** -->
 <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" /><br>
 
