@@ -9,7 +9,7 @@
 <div align="left" width="50">
 
 ```dart
-// Tools I use organized
+// Tools I use
 class About extends Me { 
   const mySkills = {  
     "ProgramingLanguages" : { "Java", "C++", "C", "Python", "Javascript" },
