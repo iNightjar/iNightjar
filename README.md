@@ -25,7 +25,7 @@ class About extends Me {
 }
 ```
 
- <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/code-coding.gif?raw=true" /><br>
+ <img width="20%" align="left" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/code-coding.gif?raw=true" /><br>
 <img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/mario.gif?raw=true" /><br>
 
 <img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/programmers-go-internet.gif?raw=true" /><br>
