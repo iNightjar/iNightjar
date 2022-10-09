@@ -42,13 +42,13 @@ class About extends Me {
 
 <!-- - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Preview My CV:**[ Muhamed Medhat CV](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view?usp=sharing)**.<br> -->
 
-- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/youtubeGif.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**<br><br>
+- &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/youtubeGif.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**
 
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **[Email](mailto:mohamedmedhateltlawy@gmail.com)** 
 
 -  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[C V](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**
 
-
+<br>
 <!-- Skills ( Languages & Tools ) -->
 
 [![Arch Linux](https://img.shields.io/badge/OS-Linux-05122A?style=plastic&logo=Linux&color=informational)](https://archlinux.org/)[![Bash Shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=informational)](https://www.gnu.org/software/bash/)
