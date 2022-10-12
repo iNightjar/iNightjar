@@ -16,7 +16,7 @@ class About extends Me {
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Batch", "Json", "Markdown" },
     "Agile/Issue Trackers" : {"Slack", "Jira", "Trello", "GitHub Issues"},
     "Containerization/Orchestration" : {"Docker", "Kuberenetes"},
-    "FrameWorks": {"NodeJS/ExpressJS" , "ReactJS","Django", "Bootstrap" },
+    "FrameWorks/Libraries": {"NodeJS/ExpressJS" , "ReactJS", "Django" , "Flask" },
     "Database" : { "Firebase", "Sqlite", "MongoDB", "MySqlServer", "MariaDB" },
     "Editors" : { "Vscode", "Sublime", "Neovim","VIM", "Kate"},
     "Platforms" : { "Arch/Linux","Debian/Linux","Redhat/Linux", "Windows" },
