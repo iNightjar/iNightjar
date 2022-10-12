@@ -18,9 +18,9 @@ class About extends Me {
     "Containerization/Orchestration" : {"Docker", "Kuberenetes"},
     "FrameWorks": {"NodeJS/ExpressJS" , "ReactJS","Django", "Bootstrap" },
     "Database" : { "Firebase", "Sqlite", "MongoDB", "MySqlServer", "MariaDB" },
-    "Editors" : { "Vscode", "Sublime", "Neovim","VIM", "Nano", "Tmux" },
+    "Editors" : { "Vscode", "Sublime", "Neovim","VIM", "Kate"},
     "Platforms" : { "Arch/Linux","Debian/Linux","Redhat/Linux", "Windows" },
-    "OtherTools" : { "Terminal/Shell", "Geddit", "Kate", "Figma", "Gimp" }
+    "OtherTools" : { "Terminal/Shell", "Geddit", "Tmux" , "Gimp" }
   };
 }
 ```
