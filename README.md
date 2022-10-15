@@ -30,7 +30,7 @@ class About extends Me {
 
 <img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/programmers-go-internet.gif?raw=true" /><br>
 <!-- - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Latest Projects **[Bank System](https://github.com/iNightjar/Bank-System)** | **[Bash Scripts](https://github.com/iNightjar/Bash-Scripts)** -->
-<img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" /><br>
+<img width="20%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/dinosaur-dancing-dino.gif?raw=true" /><br>
 
 <br>
 <br>
@@ -47,6 +47,8 @@ class About extends Me {
 - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **[Email](mailto:mohamedmedhateltlawy@gmail.com)** 
 
 -  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[C V](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**
+
+<img width="15%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/pepe-frog.gif?raw=true" /><br>
 
 <br>
 <!-- Skills ( Languages & Tools ) -->
