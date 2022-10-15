@@ -48,7 +48,7 @@ class About extends Me {
 
 -  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[C V](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**
 
-<img width="15%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/pepe-frog.gif?raw=true" /><br>
+<img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/pepe-frog.gif?raw=true" /><br>
 
 <br>
 <!-- Skills ( Languages & Tools ) -->
