@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="550"/><br>
   
 <!-- <img alt="INIGHTJAR" src="https://github.com/iNightjar/iNightjar/blob/master/images/people.gif" width="25" /> -->
 <p><strong>I PLAY TO WIN</p>
@@ -35,7 +35,6 @@ class About extends Me {
 <br>
 <br>
 
-
 <!-- <img width="10%" align="right" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/catCoding.gif?raw=true" /><br> -->
 
 <!-- - <img src="https://github.com/iNightjar/iNightjar/blob/master/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find Me On Twitter: **[ iNightjar](https://twitter.com/iNightjar)**.<br> -->
@@ -44,11 +43,11 @@ class About extends Me {
 
 - &nbsp;&nbsp;<img src="https://github.com/iNightjar/iNightjar/blob/master/images/youtubeGif.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**[Youtube](https://www.youtube.com/channel/UCO4TqxRIyuktSY9NuwCRdLA)**
 
-- <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **[Email](mailto:mohamedmedhateltlawy@gmail.com)** 
+- <img src="https://github.com/iNightjar/iNightjar/blob/master/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **[Email](mailto:mohamedmedhateltlawy@gmail.com)**
 
--  <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[C V](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**
+- <img alt="GIF" src="https://github.com/iNightjar/iNightjar/blob/master/images/Developer.gif" width="25" /> &nbsp; **[C V](https://drive.google.com/file/d/1s4CyIbBK5LWQ9bvNwZNuTIKn8mysXxG7/view)**
 
-<img width="10%" align="center" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/pepe-frog.gif?raw=true" /><br>
+<img width="10%" align="left" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/pepefrg.gif?raw=true" /><br>
 
 <br>
 <!-- Skills ( Languages & Tools ) -->
@@ -87,4 +86,3 @@ class About extends Me {
 <div align="center" width="50">
 <img src="https://github.com/iNightjar/iNightjar/blob/master/images/dino_rounded.gif?raw=true" href="https://github.com/iNightjar" /><br> 
 </div> -->
-
