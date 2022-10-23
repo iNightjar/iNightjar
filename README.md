@@ -17,13 +17,15 @@ class About extends Me {
     "Agile/Issue Trackers" : {"Slack", "Jira", "Trello", "GitHub Issues"},
     "Containerization/Orchestration" : {"Docker", "Kuberenetes"},
     "FrameWorks/Libraries": {"NodeJS/ExpressJS" , "ReactJS", "Django" , "Flask" },
-    "Database" : { "Firebase", "Sqlite", "MongoDB", "MySqlServer", "MariaDB" },
+    "Databases" : { "Firebase", "Sqlite", "MongoDB", "MySqlServer", "MariaDB" },
     "Editors" : { "Vscode", "Sublime", "Neovim","VIM", "Kate"},
     "Platforms" : { "Arch/Linux","Debian/Linux","Redhat/Linux", "Windows" },
     "OtherTools" : { "Terminal/Shell", "Geddit", "Tmux" , "Gimp" }
   };
 }
 ```
+
+
 
  <img width="20%" align="left" alt="Github Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/code-coding.gif?raw=true" /><br>
 <img width="20%" align="right" alt="Mario Image" src="https://github.com/iNightjar/iNightjar/blob/master/images/mario.gif?raw=true" /><br>
