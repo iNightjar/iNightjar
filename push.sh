@@ -21,6 +21,8 @@ echo ""
 echo "##################################"
 echo "# Adding new changes to the repo #"
 echo "##################################"
+
+# use individually with each file if you want
 git add --all .
 
 if [ "$1" == "-m" ];
@@ -46,5 +48,5 @@ git push -u origin $Branch
 
 echo ""
 echo -e "\e[0;35m########################### \e[0m"
-echo -e "\e[0;35m#      Branch Published       # \e[0m"
+echo -e "\e[0;35m#      Branch Published   # \e[0m"
 echo -e "\e[0;35m########################### \e[0m"
