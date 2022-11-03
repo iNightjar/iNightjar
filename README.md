@@ -1,11 +1,3 @@
-<div align="center" width="50">
-
-<img src="https://github.com/iNightjar/iNightjar/blob/master/images/coderman.gif?raw=true" href="https://github.com/iNightjar" alt="CoDiNg RocKs"  width="600"/><br>
-  
-<!-- <img alt="INIGHTJAR" src="https://github.com/iNightjar/iNightjar/blob/master/images/people.gif" width="25" /> -->
-<!-- <p><strong>I PLAY TO WIN</p> -->
-</div>
-
 <div align="left" width="50">
 
 ```dart
