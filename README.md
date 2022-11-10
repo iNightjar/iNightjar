@@ -1,14 +1,14 @@
 <div align="left" width="50">
 
 ```dart
-// Tools I Use Organized
+// Tools I Worked With, Organized
 class About extends Me { 
-  const mySkills = {  
+  const Tools = {  
     "ProgramingLanguages" : { "Java", "C++", "C", "Python", "Javascript" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Batch", "Json", "Markdown" },
     "Agile/Issue Trackers" : { "Slack", "Jira", "Trello", "GitHub Issues" },
     "Containerization/Orchestration" : { "Docker", "Kuberenetes" },
-    "FrameWorks/Libraries": { "NodeJS/ExpressJS" , "ReactJS", "Django" , "Flask" },
+    "FrameWorks/Libraries": { "NodeJS" , "ReactJS", "Django" , "Flask" },
     "Databases" : { "MongoDB", "Sqlite", "PostgreSQL", "MySqlServer" },
     "Editors" : { "Vscode", "Sublime", "Neovim","VIM", "Kate" },
     "Platforms" : { "Arch/Linux","Debian/Linux","Redhat/Linux", "Windows" },
